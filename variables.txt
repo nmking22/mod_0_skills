@@ -1,0 +1,11 @@
+food = "Sushi"
+is_delicious = true
+food = "Burrito"
+num2 = 2
+num7 = 7
+quotient = 7 / 2
+songs = ["Hotel California", "Fortunate Son", "Brooklyn Zoo"]
+
+songs.drop(1)
+
+food.length

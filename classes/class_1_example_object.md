@@ -1,6 +1,6 @@
 ## FastFoodRestaurant Example Object
 
-**Object within FastFoodRestaurant##: `boulder_mcdonalds`
+**Object within FastFoodRestaurant**: `boulder_mcdonalds`
 
 **Attributes**
 

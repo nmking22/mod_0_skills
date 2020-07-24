@@ -1,6 +1,6 @@
 ## FineDining Example Object
 
-**Object within FineDining##: `fancy_steak_house`
+**Object within FineDining**: `fancy_steak_house`
 
 **Attributes**
 

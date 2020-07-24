@@ -1,6 +1,6 @@
 ## Restaurant Class 2
 
-**Class:** `fine_dining`
+**Class:** `FineDining`
 
 **Attributes:**
 
